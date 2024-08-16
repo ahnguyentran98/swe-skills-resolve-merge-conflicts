@@ -1,1 +1,3 @@
-<h2>conflict here</h2>
+
+<h2>conflict here, fixed</h2>
+
