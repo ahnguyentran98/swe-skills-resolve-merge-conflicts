@@ -1,3 +1,3 @@
-# References
 
-* octocat 1 😈
+<h2>conflict here, fixed</h2>
+
